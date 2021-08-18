@@ -1,0 +1,6 @@
+{
+  "short_name": "Form Example",
+  "name": "Formik and Yup Example",
+  "start_url": ".",
+  "display": "standalone"
+}
